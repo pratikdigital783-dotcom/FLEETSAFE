@@ -1,0 +1,6 @@
+{
+  "name": "FleetSafe",
+  "description": "Quantum-Inspired Fuel Consumption Prediction & Green Fleet Optimization Platform for maritime logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
